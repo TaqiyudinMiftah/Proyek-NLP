@@ -18,3 +18,4 @@ Pastikan Python environment kamu memiliki pustaka berikut:
 
 ```bash
 pip install google-play-scraper pandas
+```
